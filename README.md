@@ -7,7 +7,7 @@ The main goal of this project is to simulate bash shell.
 ## Usage
 
 ```bash
-Make
+make
 ./minishell
 ```
 
