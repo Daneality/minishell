@@ -25,10 +25,3 @@ It also has expansion feature such as echo ```$USER``` that will print ```/yarut
 It can expand echo ```$?``` and print the last exit code.
 
 You can navigate through your last input using arrows Up and Down
-
-## Contributors
-Danil Sas:
-https://github.com/Daneality
-
-Ilya Bellash:
-https://github.com/shokunin48
